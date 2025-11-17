@@ -1,0 +1,7 @@
+
+## How to Run
+```bash
+git clone https://github.com/yourusername/AI_Lyric_Generator.git
+cd AI_Lyric_Generator
+pip install -r requirements.txt
+python app.py
